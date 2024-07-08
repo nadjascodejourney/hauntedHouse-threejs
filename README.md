@@ -8,3 +8,6 @@ In addition to the course content of this exercise, I have also incorporated 3D 
 
 - [Threejs-journey](https://threejs-journey.com/lessons/haunted-house#)
 - [Loading-3D-Models](https://threejs.org/docs/#manual/en/introduction/Loading-3D-models)
+
+### Note: 
+In this learning project, I have decided not to divide the files into smaller sections. The whole project could be better organised in terms of clarity and the code could be split up according to responsibility.
